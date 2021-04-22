@@ -38,7 +38,7 @@ export default class Header extends React.Component {
                       </ul>
                     </div>
                   </nav>
-                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu" aria-hidden="true" /></button>
+                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close </span><span className="icon-menu" aria-hidden="true" /></button>
                   </React.Fragment>)}
                 </div>
               </div>
